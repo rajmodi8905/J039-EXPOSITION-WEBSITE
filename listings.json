@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/Assignment_2_Pandas_Matplotlib.html",
       "/posts/visualisation.html",
       "/posts/welcome.html"
     ]
